@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5f9af62-8611-4e09-bcd7-0d9f76b4fe1f" name="Default" comment="" />
+    <list default="true" id="d5f9af62-8611-4e09-bcd7-0d9f76b4fe1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/AsyncController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/DeferredResultHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/MockQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/QueueListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/dto/User.class" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/dto/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/web/controller/UserController.class" afterPath="$PROJECT_DIR$/imooc-security-demo/target/classes/com/imooc/web/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/target/test-classes/com/imooc/security/DemoApplicationTest.class" afterPath="$PROJECT_DIR$/imooc-security-demo/target/test-classes/com/imooc/security/DemoApplicationTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-app/imooc-security-app.iml" afterPath="$PROJECT_DIR$/imooc-security-app/imooc-security-app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-browser/imooc-security-browser.iml" afterPath="$PROJECT_DIR$/imooc-security-browser/imooc-security-browser.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-core/imooc-security-core.iml" afterPath="$PROJECT_DIR$/imooc-security-core/imooc-security-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-core/pom.xml" afterPath="$PROJECT_DIR$/imooc-security-core/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/imooc-security-demo.iml" afterPath="$PROJECT_DIR$/imooc-security-demo/imooc-security-demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/dto/User.java" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/dto/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/controller/UserController.java" afterPath="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java" afterPath="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/imooc-security-core/target/" />
@@ -20,24 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DemoApplicationTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java">
+      <file leaf-file-name="AsyncController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/AsyncController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-              <folding>
-                <element signature="e#922#923#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="227">
+              <caret line="55" column="53" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,31 +65,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/dto/User.java">
+      <file leaf-file-name="DeferredResultHolder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/DeferredResultHolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            <state relative-caret-position="224">
+              <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="53" />
               <folding>
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-security-browser/pom.xml">
+      <file leaf-file-name="MockQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/MockQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueueListener.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/QueueListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="31" column="69" lean-forward="false" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,6 +118,9 @@
       <find>spring-social.version</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -100,14 +132,18 @@
         <option value="$PROJECT_DIR$/imooc-security-app/pom.xml" />
         <option value="$PROJECT_DIR$/imooc-security-browser/pom.xml" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/App.java" />
-        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" />
-        <option value="$PROJECT_DIR$/imooc-security-core/pom.xml" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/imooc-security-demo/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/DeferredResultHolder.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/AsyncController.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/QueueListener.java" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/MockQueue.java" />
+        <option value="$PROJECT_DIR$/imooc-security-core/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/dto/User.java" />
         <option value="$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java" />
       </list>
     </option>
   </component>
@@ -157,6 +193,7 @@
     <option name="width" value="1400" />
     <option name="height" value="816" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -178,6 +215,11 @@
             <path>
               <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-security-core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
@@ -240,45 +282,12 @@
               <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
               <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="imooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imooc-security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imooc-security" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc-security-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="async" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,6 +310,12 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -319,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DemoApplicationTest.createUser">
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.DemoApplication" />
@@ -492,14 +507,17 @@
     <recent_temporary>
       <list size="4">
         <item index="0" class="java.lang.String" itemvalue="JUnit.DemoApplicationTest.createUser" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DemoApplicationTest.getUserInfo" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DemoApplicationTest.whenQuerySuccess" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DemoApplicationTest.whenQuerySuccess" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DemoApplicationTest.getUserInfo" />
         <item index="3" class="java.lang.String" itemvalue="Application.DemoApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -509,44 +527,44 @@
       <option name="presentableId" value="Default" />
       <updated>1536891249669</updated>
       <workItem from="1536891253896" duration="5652000" />
-      <workItem from="1536899943902" duration="12370000" />
+      <workItem from="1536899943902" duration="24829000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoApplicationTest_createUser - 2018.09.14 at 17h 19m 07s.xml">
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 07m 07s.xml">
       <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 02m 41s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 07m 47s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 03m 57s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 08m 19s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 04m 46s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 09m 36s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 05m 12s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 15m 37s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 10m 50s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 20m 20s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 11m 12s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 21m 16s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 11m 33s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 21m 39s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 12m 10s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 27m 52s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTest_getUserInfo - 2018.09.14 at 17h 18m 21s.xml">
-      <configuration name="DemoApplicationTest.getUserInfo" configurationId="JUnit" />
+    <history-entry file="DemoApplicationTest_createUser - 2018.09.17 at 09h 28m 55s.xml">
+      <configuration name="DemoApplicationTest.createUser" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18022000" />
+    <option name="totallyTimeSpent" value="30481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,7 +588,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -609,8 +627,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -670,18 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-clean-plugin/3.0.0/maven-clean-plugin-3.0.0.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -698,22 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -722,40 +712,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/dto/User.java">
+    <entry file="jar://D:/jdk1.8.0_77/jdk1.8.0_77/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="579" column="18" lean-forward="false" selection-start-line="579" selection-start-column="12" selection-end-line="579" selection-end-column="18" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="false" />
+            <element signature="e#27022#27023#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.19.RELEASE/spring-context-4.3.19.RELEASE.jar!/org/springframework/validation/Errors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.19.RELEASE/spring-web-4.3.19.RELEASE.jar!/org/springframework/web/context/request/async/DeferredResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
           <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/dto/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1229#1230#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="513">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/MockQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/test/java/com/imooc/security/DemoApplicationTest.java">
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/AsyncController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        <state relative-caret-position="227">
+          <caret line="55" column="53" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="53" />
           <folding>
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/DeferredResultHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-security-demo/src/main/java/com/imooc/web/async/QueueListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="31" column="69" lean-forward="false" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
