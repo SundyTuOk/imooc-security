@@ -12,4 +12,4 @@ spring:
 #    spring security on-off
 security:
   basic:
-    enabled: false
+    enabled: true
