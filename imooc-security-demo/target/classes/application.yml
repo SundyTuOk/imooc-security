@@ -9,7 +9,10 @@ spring:
 #  spring session on-off
   session:
     store-type: none
+  resources:
+    static-locations: classpath:/resources/,classpath:/static/,classpath:/templates/
 #    spring security on-off
 security:
   basic:
     enabled: true
+

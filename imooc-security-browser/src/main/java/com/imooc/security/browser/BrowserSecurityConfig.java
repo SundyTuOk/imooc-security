@@ -12,9 +12,14 @@ public class BrowserSecurityConfig extends WebSecurityConfigurerAdapter {
 //        super.configure(http);
 //        http.httpBasic()//弹窗登录方式
         http.formLogin()//表单登录方式
+                .loginPage("/imooc-signIn.html")
+                .loginProcessingUrl("/authentication/form")
                 .and()
                 .authorizeRequests()
+                .antMatchers("/imooc-signIn.html").permitAll()
                 .anyRequest()
-                .authenticated();
+                .authenticated()
+                .and()
+                .csrf().disable();
     }
 }
