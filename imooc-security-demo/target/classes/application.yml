@@ -19,5 +19,5 @@ security:
 imooc:
   security:
     browser:
-      loginPage: imooc-signIn.html
+      loginPage: /imooc-signIn.html
 
