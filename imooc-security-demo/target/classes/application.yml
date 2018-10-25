@@ -16,3 +16,8 @@ security:
   basic:
     enabled: true
 
+imooc:
+  security:
+    browser:
+      loginPage: imooc-signIn.html
+
