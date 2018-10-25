@@ -4,3 +4,7 @@
 /imooc-security-browser/*.iml
 /imooc-security-app/*.iml
 /.idea
+/imooc-security-app/target
+/imooc-security-browser/target
+/imooc-security-core/target
+/imooc-security-demo/target
